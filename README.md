@@ -6,6 +6,7 @@
 
 
 create customdata folder inside yolov7
+data set download link :[customdata](https://drive.google.com/drive/folders/1u4IL2sGy2Hh84Xp3YyLENsd1SH437lea?usp=sharing)
 
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/62583018/178202558-d7cd75e5-f906-4473-a5c8-a5d148faa277.png">
 
