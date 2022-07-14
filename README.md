@@ -53,4 +53,5 @@ do changes such as no classes
 
 
 
-
+7. inference on video/image 
+```python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg```
