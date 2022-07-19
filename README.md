@@ -55,4 +55,5 @@ do changes such as no classes
 
 7. inference on video/image 
 ```python yolov7_inference.py ```  # add alll file path inside this file
+
 ```python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg```
