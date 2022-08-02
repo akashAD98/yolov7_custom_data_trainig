@@ -26,6 +26,9 @@ train: ./customdata/train.txt
 val: ./customdata/valid.txt  
 
 
+# script for dividing data into train,test & validation
+```python yolov_train_test_split.py```
+
 # number of classes
 nc: 3
 
