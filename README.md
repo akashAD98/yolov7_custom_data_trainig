@@ -5,6 +5,10 @@
 3. ```!pip install requirements.txt```
 
 
+ 4. script for dividing data into train,test & validation
+```python yolov_train_test_split.py```
+
+
 create customdata folder inside yolov7
 data set download link :[customdata](https://drive.google.com/drive/folders/1u4IL2sGy2Hh84Xp3YyLENsd1SH437lea?usp=sharing)
 
@@ -17,7 +21,7 @@ data set download link :[customdata](https://drive.google.com/drive/folders/1u4I
 -inside labels all labels of train & valid image
 
 
-4. go insiode data folder & create custom_data.yaml
+. go insiode data folder & create custom_data.yaml
 & add path of image & labels (i.e .txt)
 
 ```
@@ -26,8 +30,7 @@ train: ./customdata/train.txt
 val: ./customdata/valid.txt  
 
 
-# script for dividing data into train,test & validation
-```python yolov_train_test_split.py```
+
 
 # number of classes
 nc: 3
