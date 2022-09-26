@@ -1,3 +1,8 @@
+## yolov7 architecture
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/62583018/192199125-d3be831b-96b0-4520-96b7-8a2501fca79e.png">
+
+
 #### clone repo
  1.``` git clone https://github.com/WongKinYiu/yolov7.git```
 
